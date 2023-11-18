@@ -12,7 +12,7 @@ Este é um programa simples em C que atua como uma calculadora básica, permitin
 
 1. **Compilação:** Compile o programa usando um compilador C compatível.
    ```bash
-   gcc calculadora.c -o calculadora
+   gcc Calculadora.c -o calculadora
    ```
 
 2. **Execução:** Execute o programa compilado.
