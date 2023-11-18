@@ -1,4 +1,3 @@
-
 # Calculadora Simples em C
 
 Este é um programa simples em C que atua como uma calculadora básica, permitindo operações de adição, subtração, multiplicação e divisão.
@@ -36,13 +35,7 @@ O resultado é 15
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos.
 
-## Autor
-
-*Seu Nome* - *seu@email.com*
-
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
-
-Esse é um exemplo básico usando a formatação Markdown. Você pode substituir as informações fictícias pelas informações reais do seu projeto. Markdown é uma linguagem simples de formatação e você pode adicionar mais detalhes, como capturas de tela, exemplos adicionais, etc., para melhorar a documentação do seu projeto.
